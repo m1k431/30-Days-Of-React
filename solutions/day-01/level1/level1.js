@@ -20,5 +20,8 @@ console.log(countries.length)
 
 console.log(countries[0])
 
+console.log(countries[5])
+
 console.log(countries[10])
+
 
